@@ -4,8 +4,11 @@
   
   </head>
   <body>
-      <div style = "color:red;">
-          test
-      </div>
+      <label>
+        test
+      </label>
+    <label>
+      araiwa
+    </label>
   </body>
 </html>
