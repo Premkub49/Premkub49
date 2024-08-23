@@ -2,7 +2,11 @@
 <img src = "https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/main/badges/cedt-engineer.svg" >
 
 <p>
-I'm Keerati Setthasuk 😳
+My name is Keerati Setthasuk 😳
+
+I'm Full-stack developer
+
+PHP Lover but doesn't use since M.5 LOL
 </p>
 Computer Engineering And Digital Technology Chulalongkron University
 
