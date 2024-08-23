@@ -1,12 +1,14 @@
 <h1>Who am I?</h1>
-<label>
-I'm Keerati Setthasuk 
+<img src = "https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/main/badges/cedt-engineer.svg" >
 
+
+<p style="font-size:40px;">
+I'm Keerati Setthasuk 
+</p>
 Computer Engineering And Digital Technology Chulalongkron University
 
 
 <a href = "https://github.com/cedt-chula" target="_blank">CEDT GITHUB</a>
-</label>
 
 <h1 class = "Head">What's My Skill</h1>
 <label class = "content">
