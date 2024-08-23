@@ -1,19 +1,10 @@
 <style>
-  .Head{
-    font-family: "Itim", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
-  .content{
-    font-family: "Itim", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
+  @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 </style>
 <body>
 <div class = "a">
 <h1 class = "Head">Who am I?</h1>
-<label class = "content">
+<label>
 I'm Keerati Setthasuk 
 
 Computer Engineering And Digital Technology Chulalongkron University
