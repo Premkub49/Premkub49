@@ -1,8 +1,8 @@
 <h1>Who am I?</h1>
 <img src = "https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/main/badges/cedt-engineer.svg" >
 
-
-<p style="font-size:40px;">
+<span style="font-size:0.5em;">Text goes here</span>
+<p>
 I'm Keerati Setthasuk 
 </p>
 Computer Engineering And Digital Technology Chulalongkron University
