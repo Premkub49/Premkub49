@@ -4,8 +4,8 @@
   
   </head>
   <body>
-    <script>
-      alert("test");
-    </script>
+      <div style = "color:red;">
+          test
+      </div>
   </body>
 </html>
