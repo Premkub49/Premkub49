@@ -26,7 +26,7 @@ I love create Website and Data Analyst
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=premkub49)](https://github.com/anuraghazra/github-readme-stats)
 
 ```php
-echo "php isn't death";
+echo "easy to dev languages";
 ```
 <h1>My game</h1>
 
