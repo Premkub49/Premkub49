@@ -1,7 +1,6 @@
 <h1>Who am I?</h1>
 <img src = "https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/main/badges/cedt-engineer.svg" >
 
-<span style="font-size:0.5em;">Text goes here</span>
 <p>
 I'm Keerati Setthasuk 
 </p>
@@ -21,3 +20,10 @@ I love create Website and Data Analyst
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,go,c,cpp,lua,python,react,php,arduino,bootstrap,mysql,htmx,vscode)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=premkub49)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1>My game</h1>
+
+<a href="https://www.roblox.com/games/12461209048/Beta-13-Very-Spooky-Game">13 Very Spooky Game</a>
+
+<h1>Contact</h1>
+GitHub : <a href="https://github.com/Premkub49">Premkub49</a>
