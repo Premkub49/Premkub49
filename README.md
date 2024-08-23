@@ -1,14 +1,11 @@
-# Premkub49
-<table>
-  <tr>
-    <th>Test</th>
-  </tr>
-  <tr>
-    <td>Bruh</td>
-  </tr>
-</table>
-<ul>
-  <li>
-    hello my name is Keerati Setthasuk
-  </li>
-</ul>
+<!DOCTYPE HTML>
+<html>
+  <head>
+  
+  </head>
+  <body>
+    <script>
+      alert("test");
+    </script>
+  </body>
+</html>
