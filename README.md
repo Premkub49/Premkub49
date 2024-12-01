@@ -6,7 +6,6 @@ My name is Keerati Setthasuk 😳
 
 I'm Full-stack developer
 
-PHP Lover but doesn't use since M.5 LOL
 </p>
 Computer Engineering And Digital Technology Chulalongkron University
 
@@ -17,7 +16,7 @@ Computer Engineering And Digital Technology Chulalongkron University
 <label class = "content">
 I love create Website and Data Analyst
 </label>
-<img src = "https://sdl-stickershop.line.naver.jp/products/0/0/1/20589833/LINEStorePC/main.png" width="100%">
+<img src = "https://sdl-stickershop.line.naver.jp/products/0/0/1/20589833/LINEStorePC/main.png" width="50%">
 
 <h1 class = "Head">My skills</h1>
 
@@ -26,7 +25,10 @@ I love create Website and Data Analyst
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=premkub49)](https://github.com/anuraghazra/github-readme-stats)
 
 ```php
-echo "easy to dev languages";
+echo "I just like php btw";
+```
+```golang
+fmt.Println("this too");
 ```
 <h1>My game</h1>
 
