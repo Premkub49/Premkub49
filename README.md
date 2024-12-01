@@ -16,7 +16,7 @@ Computer Engineering And Digital Technology Chulalongkron University
 <label class = "content">
 I love create Website and Data Analyst
 </label>
-<img src = "https://sdl-stickershop.line.naver.jp/products/0/0/1/20589833/LINEStorePC/main.png" width="50%">
+<img src = "https://sdl-stickershop.line.naver.jp/products/0/0/1/20589833/LINEStorePC/main.png" width="25%">
 
 <h1 class = "Head">My skills</h1>
 
