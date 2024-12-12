@@ -20,7 +20,7 @@ I love create Website and Data Analyst
 
 <h1 class = "Head">My skills</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,go,c,cpp,lua,python,react,php,arduino,bootstrap,mysql,htmx,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,go,c,cpp,lua,python,react,php,arduino,bootstrap,mysql,vscode)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=premkub49)](https://github.com/anuraghazra/github-readme-stats)
 
