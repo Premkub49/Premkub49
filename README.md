@@ -24,12 +24,6 @@ I love create Website and Data Analyst
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=premkub49)](https://github.com/anuraghazra/github-readme-stats)
 
-```php
-echo "I just like php btw";
-```
-```golang
-fmt.Println("this too");
-```
 <h1>My game</h1>
 
 <a href="https://www.roblox.com/games/12461209048/Beta-13-Very-Spooky-Game">13 Very Spooky Game</a>
